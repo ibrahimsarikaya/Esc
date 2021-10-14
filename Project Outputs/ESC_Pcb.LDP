@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: C:\Users\asus\Desktop\Altium Kurs\Yeni klasör\ESC_Pcb.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=esc_pcb.txt|DrillLayers=gtl,g1,g2,gbl
+LayersSetName=1_2_Buried_Vias|DrillFile=esc_pcb.tx1|DrillLayers=g1,g2
